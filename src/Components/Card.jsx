@@ -11,7 +11,7 @@ function Card(props) {
 					<div
 						key={da.id}
 						className='ddr'>
-						<div className='box'>
+						<div className='box '>
 							<img
 								src={
 									da.image ||
