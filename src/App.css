@@ -1,11 +1,1 @@
 /** @format */
-.gfd::before {
-	content: '';
-	position: absolute;
-	top: 10px;
-	right: -30px;
-	height: 30px;
-	width: 50px;
-	border-radius: 20px;
-	background-color: #4b63ff;
-}
